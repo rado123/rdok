@@ -1,0 +1,10 @@
+{
+  "name": "testi/testi",
+  "description": "testi",
+  "autoload": {
+    "psr-4": {
+       "Brenc\\": "Brenc/"
+     }
+  }
+}
+

@@ -1,0 +1,26 @@
+# Linki
+
+- html
+	- [https://www.w3schools.com/html/default.asp](https://www.w3schools.com/html/default.asp)
+	- [https://htmlreference.io/](https://htmlreference.io/)
+- css
+    - [https://cssreference.io/](https://cssreference.io/) 
+- jQuery
+- JavaScript
+    - [mozzila js](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+    - [mozzila js reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+    - [mozilla js web api](https://developer.mozilla.org/en-US/docs/Web/API)
+- vue
+    - [Vuejs reference](https://vuejs.org/v2/api/)
+    - [https://vuejs.org/v2/guide/](https://vuejs.org/v2/guide/)
+- less
+    - [http://lesscss.org/](http://lesscss.org/)  
+- php
+    - [https://www.w3schools.com/php/](https://www.w3schools.com/php/) 
+    - [php.net](https://www.php.net/)
+- sql
+    - [https://www.w3schools.com/sql](https://www.w3schools.com/sql)
+    - [http://www.postgresqltutorial.com/](http://www.postgresqltutorial.com/)
+    - [https://dzone.com/articles/how-to-handle-a-many-to-many-relationship-in-datab](https://dzone.com/articles/how-to-handle-a-many-to-many-relationship-in-datab)
+    - [https://www.postgresql.org/docs/10/index.html](https://www.postgresql.org/docs/10/index.html)
+    - [http://www.mysqltutorial.org/](http://www.mysqltutorial.org/)
