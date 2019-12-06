@@ -18,6 +18,8 @@
 - php
     - [https://www.w3schools.com/php/](https://www.w3schools.com/php/) 
     - [php.net](https://www.php.net/)
+    - [https://medium.com/prod-io/solid-principles-takeaways-ec0825a07247](https://medium.com/prod-io/solid-principles-takeaways-ec0825a07247)
+    - [https://www.corephp.com/blog/php-best-practices-that-you-must-follow/](https://www.corephp.com/blog/php-best-practices-that-you-must-follow/)
 - sql
     - [https://www.w3schools.com/sql](https://www.w3schools.com/sql)
     - [http://www.postgresqltutorial.com/](http://www.postgresqltutorial.com/)

@@ -27,8 +27,8 @@ class a {
 	}
 	public function izpis(){
 		echo "Klasa ". get_class($this).PHP_EOL;
-		echo "a1=".$this->a1.PHP_EOL;
-		echo "a2=".$this->a2.PHP_EOL;
+		echo "a1=",$this->a1,PHP_EOL;
+		echo "a2=",$this->a2,PHP_EOL;
 		echo PHP_EOL;
 	}
 }
