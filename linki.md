@@ -3,6 +3,7 @@
 - html
 	- [https://www.w3schools.com/html/default.asp](https://www.w3schools.com/html/default.asp)
 	- [https://htmlreference.io/](https://htmlreference.io/)
+    - [https://codepen.io/](https://codepen.io/)
 - css
     - [https://cssreference.io/](https://cssreference.io/) 
     - [https://developer.mozilla.org/en-US/docs/Learn/CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS) 
